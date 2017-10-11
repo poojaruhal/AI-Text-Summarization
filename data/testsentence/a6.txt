@@ -1,0 +1,224 @@
+Astronomers have observed the other planets of the solar system with telescopes and through photographic images transmitted to the earth by interplanetary spacecraft (see Space Exploration).
+Planetary scientists have characterized the chemical signatures of the moon and Mars by studying the chemical compositions of rocks brought back from the moon by astronauts and robotic spacecraft, and soils that were analyzed on the surface of Mars by robotic spacecraft.
+This has allowed geologists to identify the origin of a small number of meteorites - fragments of interplanetary debris that landed on Earth - as rocks that came from the moon or from Mars.
+Terrestrial, or earth-based, geologists, atmospheric scientists, oceanographers, and other scientists who study the earth have accumulated a wealth of data and have constructed a detailed picture of the composition and structure of the earth.
+The recent telescopic discovery of planetary systems orbiting other stars promises to expand the information base of other planetary systems.
+Several schemes for a large-scale systematic search for planetary systems are currently under consideration.
+Astronomers have used telescopes for centuries to make exact measurements of the positions of planets and their satellites over time.
+Such information was critical to acceptance of  the law of universal gravitation proposed by English physicist Sir Isaac Newton.
+Modern telescopes allow astronomers to make enlarged images of other planets and to make the light emitted from them strong enough to analyze by spectroscopy.
+The enlarged images enable scientists to study their larger surface features, and spectroscopic analysis, which separates light into its component colors, or spectra, gives information about the chemical composition of the light source.
+In contrast, Mercury is the smallest terrestrial planet and cooled the most rapidly - it has been tectonically inactive for most of its existence.
+Mars is the second-smallest terrestrial planet and has been only partially active within the last billion years.
+Venus is the second-largest terrestrial planet and has clearly been tectonically active within the past 500 to 800 million years.
+Reasoning by analogy from the example of the terrestrial planets, most planetary scientists assumed that the icy satellites orbiting the Jovian planets were too small and too cold to be tectonically active.
+However, just prior to the flight of the United States spacecraft Voyager 1 past Jupiter, a group of planetary geologists predicted that Jupiter's innermost large satellite, Io, might show volcanic activity due to heat released by forces called tidal forces.
+Voyager 1's photographs of erupting volcanoes on Io were one of planetary science's greatest predictive successes.
+The Voyager probes later showed volcanic activity on Neptune's satellite Triton and revealed evidence of intense tectonic fracturing on Jupiter's satellite Ganymede, Saturn's satellite Enceladus, and Uranus's satellite Miranda.
+Jupiter's satellite Europa was revealed to have a white ice surface with few impact craters, suggesting that it has been repeatedly recoated by volcanic eruptions of hot water that smoothed the surface before freezing.
+Scientists predicted volcanic activity on Io based on the fact that Io is subject to intense tidal forces - flexing forces that arise from fluctuations in the gravitational force that holds the satellite in orbit.
+When a satellite orbits a planet, the gravitational force of the planet stretches the satellite slightly.
+If the satellite's orbit is somewhat elliptical, or perhaps occasionally altered by the gravitational pull of neighboring satellites, then the gravitational force acting on the satellite changes and the satellite flexes.
+Repeated flexing of a satellite due to tidal forces causes frictional heat to build up within it.
+The satellites closest to the larger planets experience the strongest tidal forces and most intense flexing, and only these show tectonic activity.
+The more distant satellites do not undergo the intense flexing that generates heat capable of melting rock.
+The atmospheres of the terrestrial planets are remarkably diverse.
+For example, the atmospheres of Venus and Mars are dominated by carbon dioxide.
+In contrast, nitrogen, oxygen, and water vapor, which are rare in the atmospheres of the other planets, dominate the atmosphere of the earth.
+There is also great diversity in surface pressure.
+For example, the atmospheric pressure at the surface of Venus is 90 times greater than that at the surface of Earth, yet the atmospheric pressure at the surface of Mars is 150 times less than the atmospheric pressure at the surface of Earth.
+Mercury, the smallest and innermost terrestrial planet, has almost no atmosphere, and most of its thin, gaseous envelope is made of solar wind particles that are temporarily trapped by its weak gravitational field.
+Planetary scientists have determined that the atmospheres of the terrestrial planets share a common history.
+The volatile, or gaseous, materials composing these atmospheres were probably derived partly from the original material of the planets and partly from planetesimals that arrived after the planets had already formed.
+The atmospheres of Venus, Earth, and Mars evolved as volcanoes emitted gases (probably primarily water vapor and carbon dioxide) from the interior.
+Atmospheric evolution, however, produced a different result on each planet.
+Venus is 30 percent closer to the sun than Earth, which makes the sunlight falling on it about twice as strong.
+The temperature on Venus has therefore always been higher than on Earth, with the result that any water released by volcanoes or delivered by planetesimal impacts remained primarily in the vapor form, rather than the liquid form as it is on Earth or the solid form as it is on Mars.
+When water vapor is exposed to ultraviolet radiation, it breaks down into oxygen and hydrogen gas in a process known as ultraviolet dissociation.
+Hydrogen gas is too light to be held by the gravitational field of any of the terrestrial planets, and so the hydrogen in Venus's water slowly escaped to space.
+The oxygen left behind combined with other atmospheric chemicals and with surface rocks so that Venus's atmosphere now contains very little water or oxygen, yet it retains all or nearly all of its original carbon dioxide in gaseous form.
+Thus, Venus has a dense atmosphere composed of about 98 percent carbon dioxide.
+Despite this dense atmosphere, winds at the surface appear to be too slow to influence the landforms of Venus to the same degree that winds on Earth and Mars influence their landforms.
+As the earth cooled, its water condensed to form liquid oceans.
+Most of the carbon dioxide in the earth's atmosphere dissolved into the oceans and combined with calcium and magnesium - two of the most abundant elements in the earth's crust - to form minerals such as calcite and magnesite, materials of common rocks such as limestone.
+Plants and other living organisms also converted the gaseous carbon dioxide to solid matter, much of which is now buried beneath the earth's surface as petroleum deposits.
+In this way, Earth did not produce the massive carbon dioxide atmosphere of Venus, but rather buried its carbon dioxide in its rocky crust.
+With the water vapor and carbon dioxide removed from earth's atmosphere, the residual nitrogen became the dominant component of the air.
+The atmosphere has evolved, however.
+As described below, oxygen was added by plants.
+Also, the geologically recent exploitation of fossil fuels by humans has caused the concentration of carbon dioxide in the earth's atmosphere to increase significantly over the last century.
+Carbon dioxide in the atmosphere absorbs infrared radiation from the sun in a process known as the greenhouse effect.
+Atmospheric scientists are concerned that the increased carbon dioxide in the atmosphere is causing a general warming of the climate of the earth's surface that could have negative consequences for agricultural production and human economies.
+(Venus' still more massive carbon dioxide atmosphere has produced a much stronger greenhouse effect that heats that planet to around 900?F.)
+For most of the earth's history, a layer of ozone high in its atmosphere has absorbed the sun's ultraviolet light and protected its water vapor from ultraviolet dissociation.
+Equally important for living organisms, the ozone layer protects the fragile chemical bonds of genetic material from damage caused by ultraviolet light.
+Scientists in the 1970s and 1980s realized that certain human-made chemicals are damaging the ozone layer, and international agreements have been made to phase out production of these chemicals.
+The ozone is formed from the earth's oxygen.
+The earth's oxygen and its ozone layer are direct results of the emergence of living organisms on the earth.
+Ozone is derived from oxygen, which is released by plants as they convert water and carbon dioxide into the carbohydrate molecules that form leaves, stems, roots, and other structural parts by photosynthesis.
+The oxygen in the earth's atmosphere is so reactive that it would soon combine with other materials on the earth and disappear from the earth's atmosphere if there were no mechanisms to renew it.
+However, the plant life of the earth's land surface and oceans keeps the concentration of oxygen in the earth's atmosphere at almost 20 percent.
+The earth's atmosphere plays a major role in shaping its surface.
+Erosion and transport of soils and rock by wind creates distinctive landforms and patterns, but water is the most important sculptor of the earth's landscape.
+Water is continuously evaporated from the oceans, transported by winds in the form of clouds, and deposited over land, which it carves into coastlines and river valleys.
+In addition to its direct geological activity, water is essential to many of the living organisms that also affect the earth's surface by anchoring soil and decreasing erosion is some places, while breaking down rock and increasing erosion in other places.
+The gravitational field at the surface of Mars is less than half that of Earth or Venus.
+Therefore, although the volcanic gases on Mars in its early days were probably in the same proportions as on the early Earth and early Venus, Mars's weak gravitational field could not hold these gases like Earth and Venus could.
+The gases on Mars thus escaped more rapidly than on Earth or Venus.
+Because Mars is farther from the sun than Earth, it receives less solar radiation.
+They first appeared 285 million years ago and were the dominant plant type during the age of the dinosaurs, which roughly paralleled the Mesozoic era.
+Because the cycad is a popular ornamental tree, most cycad species are in danger of extinction because so many of them have been collected from the wild.
+The major parts of a tree are its roots, trunk, leaves, flowers, and seeds.
+These components play vital roles in a tree's growth, development, and reproduction.
+Trees are held in place by anchoring organs called roots.
+In addition to anchoring the tree, roots also absorb water and minerals through tiny structures called root hairs.
+From the roots the water and mineral nutrients are carried upward through the wood cells to the leaves.
+Although the internal structure of most kinds of roots is similar, there are often external differences.
+Pines, for example, have a strongly developed taproot, or main root, in addition to branching side roots.
+In maples, on the other hand, there is little or no central taproot, and the other roots are produced in great numbers near the surface of the soil.
+Roots grow constantly, and at the growing tip of each root is a region called the meristem, which is composed of special rapidly dividing cells.
+These cells act together to transport food in the form of sugars, which are made in the tree's leaves, through the trunk and stems to other parts of the tree.
+Phloem cells have thin walls, and their living contents are so interconnected that the sugar solutions can pass easily and rapidly from one end of the plant to the other.
+As old layers of outer bark are sloughed off, new ones are constantly being added from the inside, where new phloem is always being created.
+Most of a tree trunk is occupied by the wood, or xylem layer, which consists almost entirely of dead cells.
+The living xylem cells, however, act as the tree's plumbing system by transporting water and dissolved food through the trunk and stems.
+A layer of cells called the cambium separates the living xylem cells from the phloem.
+As the tree grows and develops, the cambium forms new phloem and xylem cells.
+The layers of xylem cells form rings; these rings can be counted to determine the age of the tree in areas with distinct growing seasons.
+In young trees the center of the woody column, inside the xylem, consists of soft thin-walled cells called the pith.
+The pith serves as a storage tissue for sugars and later as a reservoir for wastes.
+In older trees the pith is crushed by the xylem's woody tissue, and wastes are simply deposited in the wood cells near the center of the trunk.
+As a result, in some trees the cells within the pith become dark in color and form what is often called the heartwood.
+The lighter cells around them make up the sapwood.
+In monocot trees, such as palms, the xylem and phloem tissues are grouped into bundles, which are scattered through the mass of pith that makes up most of the tree's internal structure.
+In the stems of such trees, the yearly growth rings are not apparent, as they are in oaks, maples, and other trees of temperate regions.
+In trees, as in other green plants, the principal function of the leaves is the manufacture of sugars by the process of photosynthesis.
+In this process, sugars are formed when carbon dioxide (from the air) and water (from the leaf cells) are combined in the presence of light and the green pigment chlorophyll.
+Oxygen is produced as a byproduct.
+Some of the newly formed sugar is used by the leaf cells for energy, but most is carried to other parts of the tree to provide energy for growth and development in those areas.
+The leaves are also the chief organs involved in the loss of water from the plant, called transpiration.
+Many of the tree's tissues cannot function without a constant supply of water, and water is necessary to prevent overheating or wilting of the leaves.
+Transpiration is responsible for the movement of water from the roots of the tree up to the top.
+As water is lost through the leaves, water that enters the roots is pulled upward through the xylem tissue to replace the lost moisture, ensuring a constant circulation of water through the tissues of the tree.
+All angiosperms bear flowers, the trees' reproductive structures.
+In some trees, such as dogwoods, cherries, and some magnolias, the flowers are large and colorful.
+Oaks, willows, and other temperate forest trees, on the other hand, often bear small, pale, and inconspicuous flowers.
+In maples and many other trees the male and female reproductive parts are carried in separate flowers on the same tree.
+This arrangement is known as monoecism, and such trees are called monoecious.
+In oaks, for example, the male pollen-producing flowers are borne in long hanging tassels, and the short-stalked or stalkless female flowers are located on the twigs.
+In some trees, such as the hollies and willows, the male and female flowers are borne on separate trees.
+Young bamboo stems may increase at the rate of many centimeters a day until they eventually reach a height of 36 m (118 ft) with a diameter of more than 30 cm (more than 1 ft).
+Many needle-leaf trees, such as the longleaf pine, grow at a much faster rate than broadleaf trees like walnuts and oaks, especially in their early years.
+Some broadleaf trees, however, such as black locusts and cottonwoods, may grow rapidly in suitable soils.
+Whether trees are being planted for reforestation, ornament, shade, or fruit, the first step is selecting the species to be grown.
+The choice depends on such factors as the characteristics of the soil, the location of the site, and drainage.
+For example, sycamore and cottonwood trees will not grow on dry exposed slopes or ridges, or in fields with a thin topsoil over a heavy compact subsoil.
+Walnut trees will not grow in swampy places, and jack pines grow especially well on loose sandy soils with good drainage.
+A good rule of thumb is to plant native trees - trees that have demonstrated their ability to thrive in the local environment without harming other local species.
+When large branches are removed, the cut should be made close to the trunk, and then covered for a time.
+There are many types of unusual trees around the world that exhibit a variety of interesting characteristics.
+Among these are prehistoric relics, trees that exhibit bizarre growth patterns or formations, and trees with interesting strategies for obtaining the air, water, and nutrients necessary for growth.
+Like the ginkgo, the dawn redwood is old enough to be considered a living fossil.
+Its fossilized remains were studied and identified in the 1800s, and scientists believed that the tree had become extinct about 20 million years ago.
+On contact with the skin the sap causes a rash, and it may even cause temporary or permanent blindness if it touches the eye.
+Bald cypress trees, deciduous needle-leaf trees that grow in swampy areas, are unusual because of special breathing organs known as cypress knees.
+These organs are extensions from the root system that project above the usual water level and absorb oxygen from the air for use by the roots.
+Strangler fig trees are an example of a parasitic method of development that occurs in several plant families.
+A seed is deposited by a bird, monkey, or other animal in a depression or a crotch of a limb.
+The seed sprouts and begins to develop, and roots eventually find their way to the ground, sometimes traveling 25 m (82 ft) or more.
+There the roots take hold and begin to enlarge toward each other, enclosing the trunk of the host tree.
+Finally, the roots join side by side to restrict the growth of the original tree, which eventually rots away, leaving the parasite standing as an independent plant.
+any member of the plant kingdom, comprising about 260,000 known species of mosses, liverworts, ferns, herbaceous and woody plants, bushes, vines, trees, and various other forms that mantle the earth and are also found in its waters.
+Plants range in size and complexity from small, nonvascular mosses, which depend on direct contact with surface water, to giant redwood trees, the largest living organisms, which can draw water and minerals through their vascular systems to elevations of more than 100 m (more than 330 ft).
+Only a tiny percentage of plant species are directly used by humans for food, shelter, fiber, and drugs.
+At the head of the list are rice, wheat, corn, legumes, cotton, conifers, and tobacco, on which whole economies and nations depend.
+Of even greater importance to humans are the indirect benefits reaped from the entire plant kingdom and its more than 3 billion years of carrying out photosynthesis.
+Plants have laid down the fossil fuels that provide power for industrial society, and throughout their long history plants have supplied sufficient oxygen to the atmosphere to support the evolution of higher animals.
+Today the world's biomass is composed overwhelmingly of plants, which not only underpin all food webs (see Food Web) but also modify climates and create and hold down soil, making what would otherwise be stony, sandy masses habitable for life.
+Plants are multicellular green organisms; their cells contain eukaryotic (nucleated) protoplasm held within more or less rigid cell walls composed primarily of cellulose.
+The most important characteristic of plants is their ability to photosynthesize - that is, to make their own food by converting light energy into chemical energy - a process carried out in the green, chlorophyll-containing plastids (cellular organelles) called chloroplasts (see Chlorophyll; Chloroplast).
+There are two types of vascular tissue: xylem, which conducts water and minerals from the ground to stems and leaves, and phloem, which conducts food produced in the leaves to the stems, roots, and storage and reproductive organs.
+Besides the presence of vascular tissue, tracheophytes contrast with bryophytes in that tracheophyte leafy plants are the asexual, or spore-producing, generation of their life cycle.
+In the evolution of tracheophytes, the spore-producing generation became much larger and more complex, whereas the gamete-producing generation became reduced and merely contained in the sporophyte tissue.
+This ability to evolve into larger and more diverse sporophytes, together with the ability of the vascular system to elevate water, freed tracheophytes from direct dependence on surface water.
+They were thus able to dominate all the terrestrial habitats of the earth, except the higher arctic zones, and to provide food and shelter for its diverse animal inhabitants.
+The tremendous variety of plant species is, in part, a reflection of the many distinct cell types that make up individual plants.
+Fundamental similarities exist among all these cell types, however, and these similarities indicate the common origin and the interrelationships of the different plant species.
+Each individual plant cell is at least partly self-sufficient, being isolated from its neighbors by a cell membrane, or plasma membrane, and a cell wall.
+Climbing stems, such as the tendrils of grapes and Boston ivy, have special modifications that allow them to grow up and attach to their substrate.
+Many plants have reduced leaves or no leaves at all, and their stems act as the photosynthetic surface (see Cactus).
+Some stems creep along the surface of the ground and serve to reproduce the plants through vegetative means; many grasses reproduce in this way (see Vegetative Reproduction).
+Other stems are borne underground and serve as food-storage organs, often allowing the plant to survive through the winter; the so-called bulbs of tulips and crocus are examples.
+Leaves are the primary photosynthetic organs of most plants.
+They usually are flattened blades that consist, internally, mostly of parenchyma tissue called the mesophyll, which is made up of loosely arranged cells with spaces between them.
+The spaces are filled with air, from which the cells absorb carbon dioxide and into which they expel oxygen.
+The mesophyll is bounded by the upper and lower surface of the leaf blade, which is covered by epidermal tissue.
+A vascular network runs through the mesophyll, providing the cell walls with water and removing the food products of photosynthesis to other parts of the plants.
+The leaf blade is connected to the stem through a narrowed portion called the petiole, or stalk, which consists mostly of vascular tissue.
+Appendages called stipules are often present at the base of the petiole.
+Many specialized forms of leaves occur.
+Some are modified as spines, which help protect plants from predators.
+Certain groups of plants possess highly modified leaves that trap and digest insects, providing needed nutrients (see Insectivorous Plants).
+Some leaves are brightly colored and petal-like, serving to attract pollinators to otherwise small, unattractive flowers.
+Perhaps the most highly modified leaves are flowers themselves.
+The leaf blade is usually a thin, flat structure.
+Its margins, or edges, may be smooth, as in the dogwood; jagged or toothed, as in the elm; or lobed, as in the oak and maple.
+The surface of the blade may be smooth, fuzzy, sticky, dull, or shiny.
+In most plants the leaves have a single blade and are referred to as simple.
+In other plants, such as clover, the blade is divided into separate leaflets.
+This kind of leaf is called a compound leaf.
+Most of the functions carried on by leaves take place in the blade.
+The blade consists of an upper and lower epidermis and a spongy layer of tissue, called the mesophyll.
+Running through the mesophyll is a branching system of veins.
+The epidermis is the leaf blade's skin.
+It is a thin, usually transparent, colorless layer of cells that covers both the upper and lower surfaces of the blade.
+The epidermis prevents the leaf from losing excessive amounts of water and protects it against injury.
+In most plants the epidermis is covered with cutin, a waxy substance secreted by the epidermal cells.
+The layer of cutin, called the cuticle, is responsible for the glossy appearance of some leaves.
+The cuticle gives the leaf additional protection by slowing down the rate at which water is lost.
+Generally, the cuticle is thinner on the epidermis on the underside of the leaf than on the upper epidermis, which is exposed to the sun.
+In many kinds of leaves, hairs grow from the epidermis.
+The soft hairs of plants such as the mullein give the leaves a woolly or feltlike texture.
+In some plants the epidermal hairs secrete fluids.
+For example, in geraniums and petunias the hairs secrete a fluid that gives the leaves a clammy texture.
+The strong-smelling oils of the peppermint and spearmint plants come from epidermal hairs.
+In other plants, such as the nettle, the epidermal hairs are stiff and contain a poisonous fluid that produces a skin irritation when a person is pricked by them.
+Scattered throughout the epidermis are pairs of bean-shaped cells, called guard cells.
+Guard cells contain chloroplasts, which are tiny granules filled with the green pigment chlorophyll.
+Chlorophyll gives leaves their characteristic green color.
+Chloroplasts enable leaves to carry on photosynthesis because they are able to absorb carbon dioxide and sunlight, which are required for the food-making process.
+In response to heat and light, each pair of guard cells pulls apart, and a tiny pore forms between them.
+The pores, called stomata, open to the outside atmosphere.
+When the stomata are open, carbon dioxide and oxygen pass either in or out - when carbon dioxide enters, it takes part in photosynthesis, the food-making process that releases oxygen as a waste product.
+This oxygen passes out of the leaf.
+At the same time, oxygen also enters the leaf, where it takes part in respiration, a process that forms carbon dioxide as a waste product.
+This carbon dioxide passes out through the stomata.
+Water also passes out of the open stomata in the form of a vapor.
+This process is called transpiration.
+Generally, there are more stomata on the under surface of a leaf than on the upper surface.
+This prevents water from evaporating too quickly or in excessive amounts from the leaf's upper side, which is exposed to the sun.
+Stomata close at night, providing another level of water conservation.
+In addition to the stomata, many kinds of leaves have large specialized water pores in their epidermis.
+These pores, called hydathodes, permit guttation, the process by which a plant loses liquid water.
+Unlike the stomata, hydathodes remain open all the time.
+Guttation takes place only when water is being rapidly absorbed by the roots, such as after a heavy rainfall, and when transpiration slows down, as on cool, humid nights.
+When these conditions occur together, droplets of water can be seen on the leaf early in the morning before they evaporate in the heat of the day.
+Unlike dew, which condenses on leaves from water vapor in the air and covers the entire leaf surface, guttation droplets form only on the edges and tips of leaves.
+Generally, the droplets are noticeable only on the leaves of strawberries and a few other kinds of plants.
+The mesophyll, sandwiched between the upper and lower epidermis, consists of many thin-walled cells that are usually arranged in two layers.
+The palisade layer is next to the upper epidermis.
+It consists of cylindrical cells that are packed closely together.
+Next to the palisade layer and making up most of the thickness of the leaf blade is the spongy layer.
+The spongy layer consists of roundish cells that are packed loosely together and have numerous air spaces between them.
+In most plants the spongy layer extends down to the lower epidermis.
+However, in certain grasses, irises, and other plants whose leaves grow straight up and down, the spongy layer is wedged between two palisade layers of mesophyll.
+Like the guard cells, all the cells of the mesophyll contain chloroplasts.
+Running through the middle of the mesophyll and branching out to all of its cells are veins.
+The veins extend into the petiole and connect with other veins in the stem of the plant.
+A major function of the veins is to help support the leaf blade.
+Each type of plant has a characteristic pattern of veins forming lines and ridges in the blade.
+The veins of a leaf are made up of two specialized tissues, xylem and phloem.
+Xylem usually forms the upper half of the vein.
+In nonwoody plants (low in xylem) the leaves wither and fall away because of decay and various external conditions.
+Woody plants (rich in xylem) lose their leaves as a result of characteristic changes in the base of the leaf.
+In tropical regions that have distinct wet and dry seasons, the formation and fall of leaves depend on moisture conditions rather than temperature.
