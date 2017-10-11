@@ -1,0 +1,1 @@
+# Automatic Text Summarization takes question, searches answer for this across all documnet sentence by sentence, prepare answer and present summary to user.There are various technique to acheive this. Using python natural language library, answer is presented.
